@@ -1,4 +1,4 @@
-# Headhunt Website
+# Headhunt task
 
 Welcome to the Headhunt website. This site is a comprehensive platform designed to help job seekers find opportunities and employers find suitable candidates.
 
@@ -58,7 +58,3 @@ Welcome to the Headhunt website. This site is a comprehensive platform designed 
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For further inquiries, please contact [contact@headhunt.com](mailto:contact@headhunt.com).
